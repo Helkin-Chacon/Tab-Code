@@ -1,0 +1,15 @@
+C:\Users\HELKIN\source\repos\TabCode\TabCode\bin\Debug\netstandard2.0\TabCode.deps.json
+C:\Users\HELKIN\source\repos\TabCode\TabCode\bin\Debug\netstandard2.0\TabCode.dll
+C:\Users\HELKIN\source\repos\TabCode\TabCode\bin\Debug\netstandard2.0\ref\TabCode.dll
+C:\Users\HELKIN\source\repos\TabCode\TabCode\bin\Debug\netstandard2.0\TabCode.pdb
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\TabCode.csprojAssemblyReference.cache
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\prueba.xaml.g.cs
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\TabCode.AssemblyInfoInputs.cache
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\TabCode.AssemblyInfo.cs
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\TabCode.csproj.CoreCompileInputs.cache
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\TabCode.dll
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\ref\TabCode.dll
+C:\Users\HELKIN\source\repos\TabCode\TabCode\obj\Debug\netstandard2.0\TabCode.pdb
